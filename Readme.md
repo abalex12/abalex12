@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Advanced machine learning**
 
-- 💬 Ask me about **Djanog**
+- 💬 Ask me about **Djanog , Machine learning Algorithm**
 
 - 📫 How to reach me **abr099684@gmail.com**
 
